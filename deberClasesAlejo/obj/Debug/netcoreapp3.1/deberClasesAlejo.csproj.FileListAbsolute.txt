@@ -1,0 +1,12 @@
+C:\Users\aelr2\source\repos\deberClasesAlejo\deberClasesAlejo\bin\Debug\netcoreapp3.1\deberClasesAlejo.exe
+C:\Users\aelr2\source\repos\deberClasesAlejo\deberClasesAlejo\bin\Debug\netcoreapp3.1\deberClasesAlejo.deps.json
+C:\Users\aelr2\source\repos\deberClasesAlejo\deberClasesAlejo\bin\Debug\netcoreapp3.1\deberClasesAlejo.runtimeconfig.json
+C:\Users\aelr2\source\repos\deberClasesAlejo\deberClasesAlejo\bin\Debug\netcoreapp3.1\deberClasesAlejo.runtimeconfig.dev.json
+C:\Users\aelr2\source\repos\deberClasesAlejo\deberClasesAlejo\bin\Debug\netcoreapp3.1\deberClasesAlejo.dll
+C:\Users\aelr2\source\repos\deberClasesAlejo\deberClasesAlejo\bin\Debug\netcoreapp3.1\deberClasesAlejo.pdb
+C:\Users\aelr2\source\repos\deberClasesAlejo\deberClasesAlejo\obj\Debug\netcoreapp3.1\deberClasesAlejo.AssemblyInfoInputs.cache
+C:\Users\aelr2\source\repos\deberClasesAlejo\deberClasesAlejo\obj\Debug\netcoreapp3.1\deberClasesAlejo.AssemblyInfo.cs
+C:\Users\aelr2\source\repos\deberClasesAlejo\deberClasesAlejo\obj\Debug\netcoreapp3.1\deberClasesAlejo.csproj.CoreCompileInputs.cache
+C:\Users\aelr2\source\repos\deberClasesAlejo\deberClasesAlejo\obj\Debug\netcoreapp3.1\deberClasesAlejo.dll
+C:\Users\aelr2\source\repos\deberClasesAlejo\deberClasesAlejo\obj\Debug\netcoreapp3.1\deberClasesAlejo.pdb
+C:\Users\aelr2\source\repos\deberClasesAlejo\deberClasesAlejo\obj\Debug\netcoreapp3.1\deberClasesAlejo.genruntimeconfig.cache
