@@ -10,3 +10,4 @@ C:\Users\aelr2\source\repos\deberClasesAlejo\deberClasesAlejo\obj\Debug\netcorea
 C:\Users\aelr2\source\repos\deberClasesAlejo\deberClasesAlejo\obj\Debug\netcoreapp3.1\deberClasesAlejo.dll
 C:\Users\aelr2\source\repos\deberClasesAlejo\deberClasesAlejo\obj\Debug\netcoreapp3.1\deberClasesAlejo.pdb
 C:\Users\aelr2\source\repos\deberClasesAlejo\deberClasesAlejo\obj\Debug\netcoreapp3.1\deberClasesAlejo.genruntimeconfig.cache
+C:\Users\aelr2\source\repos\deberClasesAlejo\deberClasesAlejo\obj\Debug\netcoreapp3.1\deberClasesAlejo.csprojAssemblyReference.cache

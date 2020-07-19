@@ -4,17 +4,12 @@ using System.Text;
 
 namespace deberClasesAlejo
 {
-    public class Television
+    public class Television : Producto
     {
-        public int Id { get; set; }
-        public string Marca { get; set; }
-        public string Modelo { get; set; }
+       
         public float Precio { get; set; }
         public string Garantia { get; set; }
 
-
-        // referencia que la tv tiene propietario
-        public Cliente Propietario{ get; set; }
 
 
 

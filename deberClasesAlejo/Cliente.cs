@@ -25,6 +25,9 @@ namespace deberClasesAlejo
         {
 
             get
+
+
+
             {
                 return miCompu;
 

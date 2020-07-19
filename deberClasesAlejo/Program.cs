@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Runtime.CompilerServices;
+using System.Security.Cryptography.X509Certificates;
 
 namespace deberClasesAlejo
 {
@@ -6,11 +8,13 @@ namespace deberClasesAlejo
     {
         static void Main(string[] args)
         {
+
+           
+
             Console.WriteLine("Bienvenido");
             // generamos para un numero randomico
             Random generador = new Random();
 
-            string nombre = "Alejandro";
             //creo el objeto persona
 
 
@@ -70,6 +74,27 @@ namespace deberClasesAlejo
             Console.WriteLine(producto3);
             Console.ReadKey();
 
+            
+           
+
         }
+        //sobrecargas de metodos 
+        int a = 300;
+        int b = 200;
+        int c = 400;
+        public int SumarPrecio(int a, int b)
+        {
+            return a + b ;
+        }
+        public int SumarPrecio (int a, int b, int c)
+        {
+            return a + b + c;
+        }
+
+
+
+
     }
+
+    
 }
